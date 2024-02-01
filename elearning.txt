@@ -33,6 +33,10 @@ public;
 	{
 		//student can enroll courses
 	}
+	student.access()
+	{
+		//student can access course materials
+	}
 };
 
 int main()
