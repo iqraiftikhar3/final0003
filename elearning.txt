@@ -29,6 +29,10 @@ public;
 	{
 		//student can browse courses
 	}
+	student.enroll()
+	{
+		//student can enroll courses
+	}
 };
 
 int main()
