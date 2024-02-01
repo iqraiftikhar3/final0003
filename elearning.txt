@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+class Elearning
+
+private:
+{
+
+}
+
+public;
+{
+	instructor.create()
+	{
+		//intructor will create evaluation 
+	}
+};
+
+int main()
+{
+
+}
