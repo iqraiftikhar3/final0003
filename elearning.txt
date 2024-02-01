@@ -11,6 +11,13 @@ private:
 
 public;
 {
+
+	authorization()
+		{
+			//teacher.login
+
+			//student.login
+		}
 	instructor.create()
 	{
 		//intructor will create evaluation 
