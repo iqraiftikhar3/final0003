@@ -23,6 +23,12 @@ public;
 	{
 		//intructor will organize evaluation 
 	}
+
+
+	student.browse()
+	{
+		//student can browse courses
+	}
 };
 
 int main()
