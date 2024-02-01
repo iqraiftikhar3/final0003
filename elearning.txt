@@ -19,6 +19,10 @@ public;
 	{
 		//intructor will update evaluation 
 	}
+	instructor.organize()
+	{
+		//intructor will organize evaluation 
+	}
 };
 
 int main()
